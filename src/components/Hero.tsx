@@ -19,7 +19,7 @@ export const Hero: React.FC<HeroProps> = ({ lang, onOpenConsultModal, onScrollTo
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Unboxed editorial category kicker */}
         <div className="flex items-center gap-2 text-xs sm:text-sm font-medium text-neutral-400 mb-6 flex-wrap">
-          <span className="text-sky-400 font-mono">PRIME FAITHFUL MOBILE</span>
+          <span className="text-sky-400 font-mono">PRIME FAITHFUL LIMITED</span>
           <span aria-hidden="true">·</span>
           <span>{lang === 'vi' ? 'Chuyên Gia Thiết Kế & Lập Trình Mobile App' : 'Mobile App Design & Engineering Studio'}</span>
           <span aria-hidden="true">·</span>
@@ -114,7 +114,7 @@ export const Hero: React.FC<HeroProps> = ({ lang, onOpenConsultModal, onScrollTo
             <div className="relative rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900 shadow-2xl">
               <img
                 src="/src/assets/images/hero_mobile_app_showcase_1791944578126.jpg"
-                alt="Prime Faithful Mobile App Engineering Showcase"
+                alt="PRIME FAITHFUL LIMITED App Engineering Showcase"
                 className="w-full h-72 sm:h-96 lg:h-[420px] object-cover"
                 referrerPolicy="no-referrer"
                 loading="eager"

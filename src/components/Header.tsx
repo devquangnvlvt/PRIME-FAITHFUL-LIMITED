@@ -32,7 +32,7 @@ export const Header: React.FC<HeaderProps> = ({ lang, onToggleLang, onOpenConsul
           <div className="w-7 h-7 rounded-lg bg-sky-600/20 border border-sky-500/40 flex items-center justify-center text-sky-400">
             <Smartphone className="w-4 h-4" />
           </div>
-          <span>Prime Faithful Mobile</span>
+          <span>PRIME FAITHFUL LIMITED</span>
         </a>
 
         {/* Zone 2: 4-5 concise single-line text links */}
