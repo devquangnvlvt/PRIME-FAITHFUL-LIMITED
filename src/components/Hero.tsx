@@ -113,7 +113,7 @@ export const Hero: React.FC<HeroProps> = ({ lang, onOpenConsultModal, onScrollTo
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900 shadow-2xl">
               <img
-                src="/src/assets/images/hero_mobile_app_showcase_1791944578126.jpg"
+                src="/images/hero_mobile_app_showcase_1791944578126.jpg"
                 alt="PRIME FAITHFUL LIMITED App Engineering Showcase"
                 className="w-full h-72 sm:h-96 lg:h-[420px] object-cover"
                 referrerPolicy="no-referrer"

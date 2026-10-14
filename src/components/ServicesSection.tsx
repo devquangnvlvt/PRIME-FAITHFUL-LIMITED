@@ -115,7 +115,7 @@ export const ServicesSection: React.FC<ServicesSectionProps> = ({ lang, onSelect
           <div className="lg:col-span-5 bg-neutral-900/70 border border-neutral-800 rounded-xl overflow-hidden flex flex-col justify-between hover:border-neutral-700 transition-colors">
             <div className="relative h-44 overflow-hidden border-b border-neutral-800">
               <img
-                src="/src/assets/images/mobile_app_ecommerce_ui_1791944578991.jpg"
+                src="/images/mobile_app_ecommerce_ui_1791944578991.jpg"
                 alt="Mobile UI UX Design"
                 className="w-full h-full object-cover object-top"
                 referrerPolicy="no-referrer"
@@ -157,7 +157,7 @@ export const ServicesSection: React.FC<ServicesSectionProps> = ({ lang, onSelect
           <div className="lg:col-span-5 bg-neutral-900/70 border border-neutral-800 rounded-xl overflow-hidden flex flex-col justify-between hover:border-neutral-700 transition-colors">
             <div className="relative h-44 overflow-hidden border-b border-neutral-800">
               <img
-                src="/src/assets/images/mobile_app_fintech_ui_1791944579386.jpg"
+                src="/images/mobile_app_fintech_ui_1791944579386.jpg"
                 alt="Mobile App Backend Architecture"
                 className="w-full h-full object-cover object-top"
                 referrerPolicy="no-referrer"

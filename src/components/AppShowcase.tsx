@@ -15,13 +15,13 @@ export const AppShowcase: React.FC<AppShowcaseProps> = ({ lang, onConsultAppType
   const getImageForSolution = (id: string) => {
     switch (id) {
       case 'fintech':
-        return '/src/assets/images/mobile_app_fintech_ui_1791944579386.jpg';
+        return '/images/mobile_app_fintech_ui_1791944579386.jpg';
       case 'ecommerce':
-        return '/src/assets/images/mobile_app_ecommerce_ui_1791944578991.jpg';
+        return '/images/mobile_app_ecommerce_ui_1791944578991.jpg';
       case 'booking-delivery':
-        return '/src/assets/images/hero_mobile_app_showcase_1791944578126.jpg';
+        return '/images/hero_mobile_app_showcase_1791944578126.jpg';
       default:
-        return '/src/assets/images/mobile_app_fintech_ui_1791944579386.jpg';
+        return '/images/mobile_app_fintech_ui_1791944579386.jpg';
     }
   };
 
