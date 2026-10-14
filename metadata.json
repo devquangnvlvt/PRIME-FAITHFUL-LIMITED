@@ -1,0 +1,6 @@
+{
+  "name": "Prime Faithful Limited",
+  "description": "Website giới thiệu công ty công nghệ Prime Faithful Limited - Chuyên thiết kế UI/UX và lập trình ứng dụng di động iOS, Android, Flutter, React Native và hệ thống Cloud API toàn diện.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
